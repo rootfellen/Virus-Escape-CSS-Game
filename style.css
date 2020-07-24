@@ -162,7 +162,7 @@ a {
     height: 100%;
     top:0;
     left: 0;
-    cursor: url('/cursor.png') 24 24, auto;
+    cursor: url('./cursor.png') 24 24, auto;
 }
 
 /* Launching timer */
